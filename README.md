@@ -1,2 +1,2 @@
-# sidnix.github.io
-Just a relax game
+# River & bubbles
+nothing just a simple relax game made for fun
