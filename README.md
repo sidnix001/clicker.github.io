@@ -1,2 +1,2 @@
 # River & bubbles
-nothing just a simple relax game made for fun
+- Simple relax game just click on screen 
