@@ -1,6 +1,7 @@
 body  {
    background-color: deepskyblue;
    overflow: hidden;
+   user-select: none;
 }
 
 #circle {
